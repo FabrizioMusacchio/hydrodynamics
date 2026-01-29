@@ -32,7 +32,7 @@ If you use substantial parts of the code in an academic publication, a reference
 
 Here is the suggested citation format for the repository:
 
-> Musacchio, F. (2026). *Hydrodynamics: A collection of educational Python scripts*. Zenodo. https://doi.org/10.5281/zenodo.18344030
+> Musacchio, F. (2026). *Hydrodynamics: A collection of educational Python scripts*. Zenodo. https://doi.org/10.5281/zenodo.18411283
 
 ```bibtex
 @software{musacchio_hydrodynamics_2026,
@@ -40,8 +40,8 @@ Here is the suggested citation format for the repository:
   title        = {Hydrodynamics: A collection of educational Python scripts},
   year         = {2026},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.18344030},
-  url          = {https://doi.org/10.5281/zenodo.18344030}
+  doi          = {10.5281/zenodo.18411283},
+  url          = {https://doi.org/10.5281/zenodo.18411283}
 }
 ```
 
