@@ -1,3 +1,10 @@
+""" 
+Script to simulate 2D turbulence and visualize the inverse energy cascade
+using a spectral method.
+
+author: Fabrizio Musacchio
+date: Feb 2021 / Jan 2026
+"""
 # %% IMPORTS
 import os
 import shutil

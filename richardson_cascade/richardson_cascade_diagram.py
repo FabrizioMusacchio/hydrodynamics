@@ -1,3 +1,9 @@
+""" 
+Script to create a schematic Richardson cascade diagram.
+
+author: Fabrizio Musacchio
+date: Feb 2021 / Jan 2026
+"""
 # %% IMPORTS
 import numpy as np
 import matplotlib.pyplot as plt

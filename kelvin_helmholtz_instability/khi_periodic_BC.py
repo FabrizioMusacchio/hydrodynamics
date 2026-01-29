@@ -64,7 +64,7 @@ For studies requiring true inlet–outlet dynamics, non-periodic boundary
 conditions and a different Poisson solver would be required.
 
 author: Fabrizio Musacchio
-date: Jan 2021
+date: Jan 2021 / Jan 2026
 """
 # %% IMPORTS
 import os

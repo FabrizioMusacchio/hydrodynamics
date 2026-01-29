@@ -22,7 +22,7 @@ Geometry and BCs
 This is a compact educational implementation. It is not optimized.
 
 author: Fabrizio Musacchio
-date: Jan 2021
+date: Jan 2021 / Jan 2026
 """
 # %% IMPORTS
 import os
