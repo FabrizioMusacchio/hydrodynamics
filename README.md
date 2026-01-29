@@ -6,7 +6,19 @@
 This repository contains Python scripts for different examples from the field of hydrodynamics. Each scripts belongs to one of the following blog posts, which provide detailed explanations of the implemented physics and numerical methods:
 
 
-* TO BE ADDED (!)
+* [Hydrodynamics: A brief overview of fluid dynamics and its fundamental equations](https://www.fabriziomusacchio.com/blog/2021-03-04-hydrodynamics/) (overview article)
+* [Kelvin–Helmholtz instability in 2D incompressible shear flows](https://www.fabriziomusacchio.com/blog/2021-03-02-kelvin_helmholtz_instability/)
+  * ⟶ `kelvin_helmholtz_instability/`
+* [A spatially developing 2D Kelvin Helmholtz jet with a finite volume projection method](https://www.fabriziomusacchio.com/blog/2021-03-03-kelvin_helmholtz_instability_via_finite_volume/)
+  * ⟶ `kelvin_helmholtz_instability/`
+* [The von Kármán vortex street](https://www.fabriziomusacchio.com/blog/2021-03-10-karman_vortex_street/)
+  * ⟶ `karman_vortex_street/`
+* [Turbulence, Richardson cascade, and spectral scaling in incompressible flows](https://www.fabriziomusacchio.com/blog/2021-03-06-turbulence/)
+  * ⟶ `richardson_cascade/`
+* [Forced 2D turbulence and Richardson cascade in a pseudospectral vorticity solver](https://www.fabriziomusacchio.com/blog/2021-03-07-richardson_cascade/)
+  * ⟶ `richardson_cascade/`
+* [Wavelet analysis in turbulence (and beyond)](https://www.fabriziomusacchio.com/blog/2021-03-18-wavelet_analysis_in_turbulence/)
+  * ⟶ `wavelet_analysis/`
 
 The scripts are intended as didactic and conceptual examples. They prioritize clarity and physical transparency over numerical efficiency or large-scale applicability. The focus is on illustrating fundamental mechanisms of hydrodynamics and standard modeling approaches rather than providing optimized or fully general simulation frameworks.
 
