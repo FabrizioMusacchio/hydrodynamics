@@ -21,6 +21,9 @@ This repository contains Python scripts for different examples from the field of
   * ⟶ `richardson_cascade/`
 * [Wavelet analysis in turbulence (and beyond)](https://www.fabriziomusacchio.com/blog/2021-03-18-wavelet_analysis_in_turbulence/)
   * ⟶ `wavelet_analysis/`
+* [Atmosphere and ocean as hydrostatic fluids](https://www.fabriziomusacchio.com/blog/2021-04-10-atmosphere_and_ocean_profiles/)
+  * ⟶ `physics_of_the_atmosphere/`
+
 
 The scripts are intended as didactic and conceptual examples. They prioritize clarity and physical transparency over numerical efficiency or large-scale applicability. The focus is on illustrating fundamental mechanisms of hydrodynamics and standard modeling approaches rather than providing optimized or fully general simulation frameworks.
 
@@ -36,7 +39,7 @@ For reproducibility, create a new conda environment with the following packages:
 ```bash
 conda create -n hydrodynamics python=3.12 mamba -y
 conda activate hydrodynamics
-mamba install -y numpy matplotlib scipy imageio ffmpeg pywavelets ipykernel ipython
+mamba install -y numpy matplotlib scipy imageio ffmpeg pywavelets gsw ipykernel ipython
 ```
 
 ## Usage
@@ -69,5 +72,3 @@ Thank you for considering proper citation practices.
 
 ## Contact and support
 For questions or suggestions, please open an issue on GitHub or contact the author via email: [Fabrizio Musacchio](mailto:fabrizio.musacchio@posteo.de)
-
-

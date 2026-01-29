@@ -1,5 +1,8 @@
 # Release notes for the Hydrodynamics repository
 
+## 🚀 Release v1.0.1
+I added two new scripts to the `physics_of_the_atmosphere/` folder that demonstrate hydrostatic equilibrium in atmospheric and oceanic contexts. These scripts implement simple 1D models of hydrostatic pressure and density profiles based on idealized temperature and salinity distributions.
+
 ## 🚀 Release v1.0.0
 This release marks the first complete and stable publication of the *Hydrodynamics* educational script collection. It consolidates all Python scripts used throughout the accompanying [hydrodynamics blog series](https://www.fabriziomusacchio.com/blog/2021-03-04-hydrodynamics/) into a single, citable repository.
 

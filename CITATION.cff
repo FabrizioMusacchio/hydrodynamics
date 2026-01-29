@@ -2,12 +2,12 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it using the metadata below."
 type: software
 title: "Hydrodynamics: A collection of educational Python scripts"
-version: "0.0.1"
+version: "1.0.1"
 authors:
   - family-names: Musacchio
     given-names: Fabrizio
 doi: 10.5281/zenodo.18411283
 url: https://github.com/FabrizioMusacchio/hydrodynamics/
 repository-code: https://github.com/FabrizioMusacchio/hydrodynamics/
-date-released: 2026-01-01
+date-released: 2026-01-29
 license: GPL-3.0
