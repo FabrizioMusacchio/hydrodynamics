@@ -1,5 +1,8 @@
 # Hydrodynamics: A collection of educational Python scripts
 
+![GIF](richardson_cascade/cascade_2d_medium_2.gif)
+![GIF](richardson_cascade/cascade_2d_spectrum.gif_kf24.0_1024_looped.gif)
+
 This repository contains Python scripts for different examples from the field of hydrodynamics. Each scripts belongs to one of the following blog posts, which provide detailed explanations of the implemented physics and numerical methods:
 
 
