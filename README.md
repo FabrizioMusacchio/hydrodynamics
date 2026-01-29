@@ -1,6 +1,6 @@
 # Hydrodynamics: A collection of educational Python scripts
 
-![GIF](richardson_cascade/cascade_2d_medium_2.gif)
+![GIF](kelvin_helmholtz_instability/kh_fv_output/kh_finite_volume_C_loop.gif)
 
 
 This repository contains Python scripts for different examples from the field of hydrodynamics. Each scripts belongs to one of the following blog posts, which provide detailed explanations of the implemented physics and numerical methods:
